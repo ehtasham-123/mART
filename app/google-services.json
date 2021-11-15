@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "806792530295",
+    "firebase_url": "https://martsystem-b4cfe-default-rtdb.firebaseio.com",
+    "project_id": "martsystem-b4cfe",
+    "storage_bucket": "martsystem-b4cfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806792530295:android:a8a5cfbb89093e68cbf972",
+        "android_client_info": {
+          "package_name": "com.example.martsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806792530295-hu0s8nj0umh5ok8jreq4bbkt6g638n0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFUaN0g9GxmTcZzNEqW4FwYRN9FE4MFGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806792530295-hu0s8nj0umh5ok8jreq4bbkt6g638n0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
